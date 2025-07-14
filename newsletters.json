@@ -3,16 +3,20 @@
     "title": "Test Newsletter: July 2025",
     "date": "2025-07-01",
     "url": "https://sochinewsletters.github.io/sochi-newsletters/test-newsletter/"
-  }
+  },
   {
   "title": 
   "date": 
   "url": 
-  }
-
-]
+  },
 {
   "title": "Issue 02: Phone Dilemma",
   "date": "2025-01-27",
   "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-02/"
-}
+},
+{
+    "title": "Issue 03: Sports UX & Persuasion",
+    "date": "2025-02-10",
+    "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-03/"
+  }
+]
