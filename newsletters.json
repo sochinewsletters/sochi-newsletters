@@ -5,36 +5,31 @@
     "url": "https://sochinewsletters.github.io/sochi-newsletters/test-newsletter/"
   },
   {
-  "title": 
-  "date": 
-  "url": 
+    "title": "Issue 02: Phone Dilemma",
+    "date": "2025-01-27",
+    "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-02/"
   },
-{
-  "title": "Issue 02: Phone Dilemma",
-  "date": "2025-01-27",
-  "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-02/"
-},
-{
+  {
     "title": "Issue 03: Sports UX & Persuasion",
     "date": "2025-02-10",
     "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-03/"
- },
-{
-  "title": "Issue 04: Color, AI, and User Effort",
-  "date": "2025-02-25",
-  "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-04/"
-},
-{
-  "title": "Issue 08: IPOs, WHOOP, and Enshittification",
-  "date": "2025-03-18",
-  "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-08/"
-},
+  },
+  {
+    "title": "Issue 04: Color, AI, and User Effort",
+    "date": "2025-02-25",
+    "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-04/"
+  },
+  {
+    "title": "Issue 08: IPOs, WHOOP, and Enshittification",
+    "date": "2025-03-18",
+    "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-08/"
+  },
   {
     "title": "Issue 09: Designathons, DEI & Accessibility",
     "date": "2025-03-25",
     "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-09/"
   },
-    {
+  {
     "title": "Issue 10: Truth Social & April Fools",
     "date": "2025-04-01",
     "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-10/"
@@ -49,6 +44,5 @@
     "date": "2025-04-22",
     "url": "https://sochinewsletters.github.io/sochi-newsletters/newsletter-12/"
   }
-
-
 ]
+
